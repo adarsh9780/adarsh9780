@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Adarsh Maurya 👋
 
-<!--
-**adarsh9780/adarsh9780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied AI/ML Engineer at JP Morgan Chase | Compliance Analytics**
 
-Here are some ideas to get you started:
+- 💻 Machine Learning | Data Science | Software Engineering  
+- 🐍 Python | SQL | NLP | Front-end Development | Statistics
+- 🚀 Building [inquira-ce](https://github.com/adarsh9780/inquira-ce): Conversational AI for enterprise compliance
+- 📊 Passionate about analytics, scalable AI products, and clean code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Project:**  
+[Inquira-ce](https://github.com/adarsh9780/inquira-ce) — FastAPI-based conversational AI platform, integrates Google Gemini LLM.
+
+**Check out:**  
+- [Inquira](https://github.com/adarsh9780/Inquira): Backend API for chat with LLM  
+- [Inquira-UI](https://github.com/adarsh9780/Inquira-UI): Frontend for Inquira  
+- [Inquira-extension](https://github.com/adarsh9780/inquira-extension): Browser extension
+
+---
+
+### ⚡ About Me
+
+- 🏢 Applied AI/ML Engineer @ JP Morgan Chase (Compliance Analytics)
+- 🗣️ NLP, FastAPI, React/JavaScript, Data Science
+- 🏸 I love Japanese anime, badminton, cricket, and board games
+
+**Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/adarshmaurya/)
+
+---
+
+_Thanks for visiting my profile!_
