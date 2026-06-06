@@ -2,7 +2,7 @@
 
 **Assistant Vice President | Applied AI/ML Engineer at JPMorgan Chase**
 
-I am an AI/ML Engineer with seven years of professional experience, including over three years focused on Generative AI, Agentic systems, and Large Language Models (LLMs). My work involves designing and deploying end-to-end machine learning solutions, ranging from multi-agent reasoning pipelines to production-grade analytics systems.
+I am an AI/ML Engineer with seven years of professional experience, including over two years focused on Generative AI, Agentic systems, and Large Language Models (LLMs). My work involves designing and deploying end-to-end machine learning solutions, ranging from multi-agent reasoning pipelines to production-grade analytics systems.
 
 Currently, I am developing **Inquira CE**, an open-source desktop application designed for agentic data analysis.
 
@@ -26,10 +26,6 @@ Inquira CE is a privacy-focused, local-first platform for conversational data an
   * **Performance:** Integrates DuckDB for high-speed processing of Parquet, CSV, and Excel files, combined with AG Grid for streaming large datasets.
   * **Infrastructure:** Supported by a FastAPI backend and a modular frontend architecture.
 
-**Related Components:**
-
-  * [Inquira-UI](https://github.com/adarsh9780/Inquira-UI) | [Inquira-extension](https://github.com/adarsh9780/inquira-extension) | [safe-py-runner](https://www.google.com/search?q=https://github.com/adarsh9780/safe-py-runner)
-
 -----
 
 ### Professional Background
@@ -43,7 +39,7 @@ Inquira CE is a privacy-focused, local-first platform for conversational data an
 ### Education & Interests
 
   * **B.Tech in Instrumentation & Control Engineering** | NIT Jalandhar (2014-2018)
-  * **Interests:** Outside of engineering, I follow Japanese anime and enjoy playing badminton, cricket, and board games.
+  * **Interests:** Outside of engineering, I watch lot of animes and enjoy playing badminton, cricket, and board games.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/adarshmaurya/) | [Documentation](https://www.google.com/search?q=https://docs.inquiraai.com)
 
