@@ -19,7 +19,7 @@ Currently, I am developing **Inquira CE**, an open-source desktop application de
 
 ### Active Project: [Inquira CE](https://github.com/adarsh9780/inquira-ce)
 
-Inquira CE is a privacy-focused, local-first platform for conversational data analysis. It aims to bridge the gap between natural language and technical data exploration.
+Inquira is a local-first, desktop-driven AI data assistant designed to let users run complex data analysis pipelines on their own machines.
 
   * **Reasoning Engine:** Built on a LangGraph-powered multi-agent pipeline that autonomously generates and executes Python scripts.
   * **Local Execution:** Utilizes a bundled Jupyter kernel for secure, zero-cloud data processing.
